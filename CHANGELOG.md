@@ -48,7 +48,7 @@ As the apk File is to lage for GitHub, the following link takes you to the file 
 ### Security
   
   
-[Remaining Template Information]
+# [Remaining Template Information]
 
 - [PROJECTNAME-ZZZZ](http://tickets.projectname.com/browse/PROJECTNAME-ZZZZ)
   PATCH Drupal.org is now used for composer.
