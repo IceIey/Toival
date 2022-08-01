@@ -5,29 +5,49 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
-## [Unreleased] - yyyy-mm-dd
+## [Unreleased] - 2022-07-30
  
-Here we write upgrading notes for brands. It's a team effort to make them as
-straightforward as possible.
+ [Toival-0.3.1]
+
  
 ### Added
-- [PROJECTNAME-XXXX](http://tickets.projectname.com/browse/PROJECTNAME-XXXX)
-  MINOR Ticket title goes here.
-- [PROJECTNAME-YYYY](http://tickets.projectname.com/browse/PROJECTNAME-YYYY)
-  PATCH Ticket title goes here.
  
 ### Changed
- 
+
+### Deprecated
+
+### Removed
+
 ### Fixed
+
+### Security
  
-## [1.2.4] - 2017-03-15
+## [0.3.1] - 2022-07-29
   
-Here we would have the update steps for 1.2.4 for people to follow.
+Here we would have the update steps for alpha version 0.3.1 for people to follow.
  
 ### Added
+
+- Sample levels are now available from the main menu
+- Passed levels turn green while failed stay white (does not save on apk close)
  
 ### Changed
+
+- Background music to a more fitting soudtrack
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+-[MusicNotPlaying] music is now being played on entering a level
+
+### Security
   
+  
+[Remaining Template Information]
+
 - [PROJECTNAME-ZZZZ](http://tickets.projectname.com/browse/PROJECTNAME-ZZZZ)
   PATCH Drupal.org is now used for composer.
  
