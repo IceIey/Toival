@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Alpha 0.3.2] - 2022-08-02
  
 As the apk File is to lage for GitHub, the following link takes you to the file on a GDrive.
-[https://drive.google.com/file/d/1A3t_W_gMKyOjQ4StHPySCqsm0vNr0gPn/view?usp=sharing]
+[Alpha 0.3.2](https://drive.google.com/file/d/1A3t_W_gMKyOjQ4StHPySCqsm0vNr0gPn/view?usp=sharing)
  
 ### Added
  
@@ -46,7 +46,7 @@ As the apk File is to lage for GitHub, the following link takes you to the file 
   
 Here we would have the update steps for alpha version 0.3.1 for people to follow.
 As the apk File is to lage for GitHub, the following link takes you to the file on a GDrive.
-[https://drive.google.com/file/d/1etdG-X0BV6oYaKhm1ePFb19JVxcFRu9p/view?usp=sharing]
+[Alpha 0.3.1](https://drive.google.com/file/d/1etdG-X0BV6oYaKhm1ePFb19JVxcFRu9p/view?usp=sharing)
  
 ### Added
 
