@@ -7,10 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
  
 ## [Unreleased] - 2022-07-30
  
- [Toival-0.3.1]
+ [Toival-0.3.3]
 
  
 ### Added
+
+- Jump platform with increased jump force
  
 ### Changed
 
@@ -21,8 +23,26 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 
 ### Security
+
+## [Alpha 0.3.2] - 2022-08-02
  
-## [0.3.1] - 2022-07-29
+As the apk File is to lage for GitHub, the following link takes you to the file on a GDrive.
+[https://drive.google.com/file/d/1A3t_W_gMKyOjQ4StHPySCqsm0vNr0gPn/view?usp=sharing]
+ 
+### Added
+ 
+ - Air Jump Tap PowerUp
+ 
+### Changed
+
+- Default build Settings
+
+### Fixed
+ 
+ - Player Speed inconsistent
+ - Player Jump height inconsistent
+ 
+## [Alpha 0.3.1] - 2022-07-29
   
 Here we would have the update steps for alpha version 0.3.1 for people to follow.
 As the apk File is to lage for GitHub, the following link takes you to the file on a GDrive.
